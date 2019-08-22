@@ -1,1 +1,1 @@
-FROM anapsix/alpine-java
+FROM ubuntu
